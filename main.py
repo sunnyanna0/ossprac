@@ -3,4 +3,4 @@ id = input("학번을 입력하세요: ")
 
 print("학생의 이름과 학번은!")
 print("이름:", name)
-print("학번:", id)
+print("학번:", id)jjj
